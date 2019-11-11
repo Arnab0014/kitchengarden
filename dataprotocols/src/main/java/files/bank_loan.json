@@ -1,0 +1,19 @@
+{
+	"name":"Arnab Ganguly",
+	"purpose":"For fun",
+	"loandetails":{
+		"amount": 10000.00,
+		"startdate":"2018-01-15",
+		"enddate":"2023-01-15"
+	},
+	"jobs":[
+	"Freelancer",
+	"System Analyst",
+	"SSD",
+	"Project Lead",
+	"Project Manager",
+	"Vice President",
+	"Director"
+	]
+	
+}
